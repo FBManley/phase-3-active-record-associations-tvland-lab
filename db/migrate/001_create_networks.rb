@@ -16,3 +16,4 @@ class CreateNetworks < ActiveRecord::Migration[6.1]
     end
   end
 end
+# you'll have to add additional tables and modify these existing tables as per the guidelines below.
